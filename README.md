@@ -29,7 +29,7 @@ After you're finished please remove all the comments and instructions!
 
 </div>
 
-# Hello Microverse by Carlos Israel Silva 
+# Hello Microverse by Carlos Silva 
 
 This project covers the configuration of linters and also includes gitignore file. It follows/use github workflow
 
