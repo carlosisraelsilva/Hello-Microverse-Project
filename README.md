@@ -1,5 +1,6 @@
 <a name="readme-top"></a>
 
+
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/microverseinc/readme-template/master/murple_logo.png" alt="logo" width="140"  height="auto" />
@@ -44,4 +45,3 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
