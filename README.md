@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📗Table of Contents 
 
 - [📖 About the Project](#about-project)
@@ -46,6 +47,7 @@ No
 
 # 🙏 Acknowledgments <a name="acknowledgments"></a>
 
+<<<<<<< HEAD
 - Microverse Sucess Team 
 
 
@@ -57,3 +59,4 @@ No
 ## 📝 License <a name="licence"></a>
 
 - This project is [MIT](./LICENSE) licensed.
+
