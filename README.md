@@ -1,69 +1,62 @@
-<a name="readme-top"></a>
+<<<<<<< HEAD
+# 📗Table of Contents 
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/microverseinc/readme-template/master/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-</div>
-
-# Hello Microverse
-
-This project covers the configuration of linters and also includes gitignore file. It follows/use github workflow
-
-## Developed Using
-
-- html
-- css
-- vscode
-- git
-- github
+- [📖 About the Project](#about-project)
+- [Built With](#built-with)
+- [💻 Live Demo](#lv-demo)
+- [🚀 Getting Started](#gt-start)
+- [👥 Author](#project-authors)
+- [🤝 Contributing](#contributing)
+- [🙏 Acknowledgements](#acknowledgements)
+- [🙏 Show Your Support](#support)
+- [📝 License](#license)
 
 
-👤 **Author**
+# Hello-Microverse-Project- <a name="about-project"></a> 
 
-- GitHub: [carlosisraelsilva]
-- Twitter: [@twitterhandle](https://twitter.com/carlosisraels)
+- This project was created with the goal of mastering all of the tools and best practices I learned about GitHub, HTML, and CSS.
+
+## Built With <a name="built-with"></a>
+
+- HTML
+- CSS
+- linter
+
+## Live Demo (if available) <a name="lv-demo"></a>
+
+No
+
+## Getting Started <a name="gt-start"></a>
+
+- To get a local copy up and running follow these simple example steps and to run this project, install it locally using npm:
 
 
-## 🤝 Contributing
+## Authors <a name="project-authors"></a>
 
-Contributions, issues, and feature requests are welcome!
+👤 **Carlos Israel Silva**
 
-Feel free to check the [issues page](../../issues/).
+- GitHub: [carlosisraelsilva](https://github.com/carlosisraelsilva)
+- Twitter:[@carlosisraelsilva](https://twitter.com/carlosisraels)
 
-## Show your support
 
-Give a ⭐️ if you like this project!
+## 🤝 Contributing <a name="contributing"></a>
 
-## Acknowledgments
+- Contributions, issues, and feature requests are welcome!
+- Feel free to check
 
-- Thanks to everybody whose code was used 
-- Encouragement 
-- and so on.
 
-## 📝 License
+# 🙏 Acknowledgments <a name="acknowledgments"></a>
 
-This project is [MIT](./MIT.md) licensed.
+<<<<<<< HEAD
+- Microverse Sucess Team 
+
+
+## Show your support <a name="support"></a>
+
+- Give a ⭐️ if you like this project!
+
+
+## 📝 License <a name="licence"></a>
+
+- This project is [MIT](./LICENSE) licensed.
+
